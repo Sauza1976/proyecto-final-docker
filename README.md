@@ -145,3 +145,7 @@ Contenedor Docker
 ↓
 
 Orquestación con Docker Compose
+## Prueba de funcionamiento del chatbot
+
+<img width="852" height="253" alt="image" src="https://github.com/user-attachments/assets/85517a7e-3615-4e95-8420-88526653c723" />
+
